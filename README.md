@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋 Meu nome é Maurício!</h1>
 <h3 align="center">Sou estudante de Engenharia de Computação dedicado a resolver problemas com dados, automação e Inteligência Artificial!</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"></h3>
 <p align="left">
 </p>
 
